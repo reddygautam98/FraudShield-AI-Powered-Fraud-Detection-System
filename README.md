@@ -90,5 +90,5 @@ npm run dev
 ## 🔗 Connect & Collaborate
 Interested in **fraud analytics, financial security, or data-driven risk management?** Let’s connect! 🚀  
 
-🌐 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gautam-reddy-359594261/)  
 
