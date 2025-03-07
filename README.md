@@ -53,8 +53,8 @@ Fraud prevention is more than just security—it’s about business **sustainabi
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/Fraud-Detection-System.git
-cd Fraud-Detection-System
+[git clone https://github.com/yourusername/Fraud-Detection-System.git
+cd Fraud-Detection-System](https://github.com/reddygautam98/FraudShield-AI-Powered-Fraud-Detection-System/tree/main)
 ```
 
 ### **2️⃣ Set Up the Virtual Environment**
