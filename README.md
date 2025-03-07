@@ -48,6 +48,27 @@ Fraud prevention is more than just security—it’s about business **sustainabi
 🔹 **Total Fraud Amount & Transaction Breakdown** 💲 – Detect financial anomalies and fraudulent transactions in real-time  
 
 ---
+## 📊  Dashboard Insights
+- Power BI Dashboard 
+
+ ![Screenshot 2025-03-07 100348](https://github.com/user-attachments/assets/08af7916-4060-4517-bad7-139b214eab3d)
+
+- React Dashboard
+
+ ![Screenshot 2025-03-07 173737](https://github.com/user-attachments/assets/62aebe03-2396-463a-adae-ad537b6a7c83)
+
+ ![Screenshot 2025-03-07 173801](https://github.com/user-attachments/assets/faa3eb8c-7815-4b5a-814e-d101b4100c38)
+
+ ![Screenshot 2025-03-07 173823](https://github.com/user-attachments/assets/0cb066cf-4647-4bb0-b9eb-ab70c9eb8cde)
+
+ ![Screenshot 2025-03-07 174130](https://github.com/user-attachments/assets/c48243b8-32d3-496a-9c51-bb704b60087e)
+
+- Python Dashboard
+
+ ![Screenshot 2025-03-07 175047](https://github.com/user-attachments/assets/b084bf8b-8b63-4395-bd58-7161f5836e71)
+
+ ![Screenshot 2025-03-07 175113](https://github.com/user-attachments/assets/b01fc213-0a37-4fc8-9eef-bbee19381bf5)
+
 
 ## 🚀 How to Run This Project
 
